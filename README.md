@@ -1,4 +1,4 @@
-<h1 align="center">Бот в telegram для расслки новостей в Украине на python</h1>
+<h1 align="center">Бот в telegram для расслки новостей в Украине на python3</h1>
 <b>Рабочая версия:</b> https://t.me/TellMe_News_Bot
 
 ✅ Простой интуитивный интерфейс
